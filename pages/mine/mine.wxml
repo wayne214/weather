@@ -1,0 +1,2 @@
+<view wx:if="{{isShow}}"><text>我的</text></view>
+<view wx:else><text>假的</text></view>
