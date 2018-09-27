@@ -1,13 +1,16 @@
 //index.js
 //获取应用实例
 const app = getApp()
+const douban = require('../../utils/doubanapi.js')
 
 Page({
   data: {
-    motto: 'Hello World',
-    userInfo: {},
-    hasUserInfo: false,
-    canIUse: wx.canIUse('button.open-type.getUserInfo')
+    inTheaters: [],
+    comingSoon: [],
+    top250: [],
+    inTheatersLoadding: true,
+    comingSoonLoadding: true,
+    top250Lodding: true
   },
   //事件处理函数
   bindViewTap: function() {
@@ -15,40 +18,46 @@ Page({
       url: '../logs/logs'
     })
   },
-  onLoad: function () {
-    if (app.globalData.userInfo) {
-      this.setData({
-        userInfo: app.globalData.userInfo,
-        hasUserInfo: true
-      })
-    } else if (this.data.canIUse){
-      // 由于 getUserInfo 是网络请求，可能会在 Page.onLoad 之后才返回
-      // 所以此处加入 callback 以防止这种情况
-      app.userInfoReadyCallback = res => {
-        this.setData({
-          userInfo: res.userInfo,
-          hasUserInfo: true
-        })
+  averageToStars: function (average) {
+    let start = []
+    for (let i = 0; i < 5; i++ , average -= 2) {
+      if (average >= 2) {
+        start[i] = 1
+      } else if (average >= 1) {
+        start[i] = 2
+      } else {
+        start[i] = 0
       }
-    } else {
-      // 在没有 open-type=getUserInfo 版本的兼容处理
-      wx.getUserInfo({
-        success: res => {
-          app.globalData.userInfo = res.userInfo
-          this.setData({
-            userInfo: res.userInfo,
-            hasUserInfo: true
-          })
-        }
-      })
     }
+
+    return start
   },
-  getUserInfo: function(e) {
-    console.log(e)
-    app.globalData.userInfo = e.detail.userInfo
-    this.setData({
-      userInfo: e.detail.userInfo,
-      hasUserInfo: true
+  onLoad: function () {
+    wx.showNavigationBarLoading()
+    console.log('全局app', app)
+    douban.find('in_theaters')
+    .then(data => {
+      wx.hideNavigationBarLoading()
+      let subjects = data.subjects
+      for(let subject of subjects) {
+        let average = subject.rating.average
+        subject.start = this.averageToStars(average)
+        if (subject.title.length > 5)
+          subject.title = subject.title.substring(0, 5) + "..."
+      }
+      this.setData({
+        inTheaters: data.subjects,
+        inTheatersLoadding: false
+      })
+    })
+    .catch(err => {
+      console.log(err)
+    })
+  },
+  toDetail(e) {
+    const { id } = e.currentTarget.dataset
+    wx.navigateTo({
+      url: `/pages/detail/detail?id=${id}`,
     })
   }
 })

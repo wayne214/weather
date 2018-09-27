@@ -1,13 +1,26 @@
 <!--index.wxml-->
-<view class="container">
-  <view class="userinfo">
-    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
-    <block wx:else>
-      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
-      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
-    </block>
+<import src="../../template/start.wxml" /> 
+<view class='content'>
+  <view class='in-theaters-bar'>
+    <view class='title'>正在热映</view>
+    <view class='more' bindtap='toMoreInteaters'>更多</view>
+    <image class='arrow-icon' src='/images/arrow.png'></image>
   </view>
-  <view class="usermotto">
-    <text class="user-motto">{{motto}}</text>
+
+  <scroll-view scroll-x>
+    <view class='in-theaters-list'>
+      <view class='in-theaters-item' wx:for="{{inTheaters}}" wx:key="{{index}}" bindtap='toDetail' data-id='{{item.id}}'>
+        <image lazy-load='true' src='{{item.images.small}}' mode='aspectFill'></image>
+        <view class='title'>{{item.title}}</view>
+        <view class='score-content'>
+          <template is="start" data="{{stars:item.start}}" />
+          <text class='score' wx:if='{{item.rating.average == 0}}'>无</text>
+          <text class='score' wx:else>{{item.rating.average}}</text>
+        </view>
+      </view>
+    </view>
+  </scroll-view>
+  <view class='loading' wx:if='{{inTheatersLoadding}}'>
+    <image mode='widthFix' src='../../images/loading.svg'></image>
   </view>
 </view>
