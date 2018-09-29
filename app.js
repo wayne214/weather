@@ -15,5 +15,10 @@ App({
     keepscreenon: false,
     systeminfo: {},
     isIPhoneX: false,
+    ak: 'Z1Li6EolQUavMK5WueMS72X13hCLWdSQ'
+  },
+
+  setGeocodeUrl(address) {
+    return `https://api.map.baidu.com/geocoder/v2/?address=${address}&output=json&ak=${this.globalData.ak}`
   }
 })

@@ -34,12 +34,13 @@ Page({
   },
   onLoad: function () {
     wx.showNavigationBarLoading()
-    console.log('全局app', app)
+    // console.log('全局app', app)
     douban.find('in_theaters')
     .then(data => {
       wx.hideNavigationBarLoading()
       let subjects = data.subjects
       for(let subject of subjects) {
+        // console.log('正在热映', subject)
         let average = subject.rating.average
         subject.start = this.averageToStars(average)
         if (subject.title.length > 5)
@@ -53,6 +54,44 @@ Page({
     .catch(err => {
       console.log(err)
     })
+
+    douban.find('coming_soon')
+      .then(data => {
+        wx.hideNavigationBarLoading()
+        let subjects = data.subjects
+        for (let subject of subjects) {
+          let average = subject.rating.average
+          subject.start = this.averageToStars(average)
+          if (subject.title.length > 5)
+            subject.title = subject.title.substring(0, 5) + "..."
+        }
+        this.setData({
+          comingSoon: data.subjects,
+          comingSoonLoadding: false
+        })
+      })
+      .catch(err => {
+        console.log(err)
+      })
+
+    douban.find('top250')
+      .then(data => {
+        wx.hideNavigationBarLoading()
+        let subjects = data.subjects
+        for (let subject of subjects) {
+          let average = subject.rating.average
+          subject.start = this.averageToStars(average)
+          if (subject.title.length > 5)
+            subject.title = subject.title.substring(0, 5) + "..."
+        }
+        this.setData({
+          top250: data.subjects,
+          top250Loadding: false
+        })
+      })
+      .catch(err => {
+        console.log(err)
+      })
   },
   toDetail(e) {
     const { id } = e.currentTarget.dataset

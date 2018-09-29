@@ -2,6 +2,9 @@ const UNPROMPTED = 0
 const UNAUTHORIZED = 1
 const AUTHORIZED = 2
 
+const weather = require('../../utils/weather.js')
+
+
 Page({
 
   /**
@@ -17,6 +20,12 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
+
+    weather.nowWeather('now')
+    .then(res => {
+      console.log('天气数据', res)
+    })
+
     wx.getLocation({
       type: 'gcj02', //返回可以用于wx.openLocation的经纬度
       success: function(res) {

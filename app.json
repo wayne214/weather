@@ -1,32 +1,32 @@
 {
   "pages":[
-    "pages/index/index",
-    "pages/logs/logs",
+    "pages/weather/weather",
     "pages/home/home",
     "pages/mine/mine",
-    "pages/detail/detail"
+    "pages/detail/detail",
+    "pages/index/index"
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
+    "navigationBarBackgroundColor": "#40a7e7",
+    "navigationBarTitleText": "清风天气",
+    "navigationBarTextStyle":"light"
   },
   "tabBar": {
     "color": "red",
     "selectedColor": "blue",
     "list": [
       {
-        "pagePath": "pages/index/index",
-        "text": "首页",
-        "iconPath": "images/index.png",
-        "selectedIconPath": "images/index-ac.png"
+        "pagePath": "pages/weather/weather",
+        "text": "天气",
+        "iconPath": "images/weather.png",
+        "selectedIconPath": "images/weather_ac.png"
       },
       {
         "pagePath": "pages/mine/mine",
         "text": "我的",
         "iconPath": "images/mine.png",
-        "selectedIconPath": "images/mine-ac.png"
+        "selectedIconPath": "images/mine_ac.png"
       }
     ]
   },
