@@ -13,6 +13,33 @@ Page({
   // 打开开关
   switchChange(e) {
     console.log('开关',e)
+    let dataset = e.currentTarget.dataset
+    let switchparam = dataset.switchparam
+    let setting = this.data.setting
+    if (switchparam === 'forceUpdate') {
+      if(this.data.enableUpdate) {
+        seeting[switchparam] = (e.detail || {}).value
+      } else {
+        setting[switchparam] = false
+        wx.showToast({
+          title: '基础库版本较低，无法使用该功能',
+          icon: 'none',
+          duration: 2000,
+        })
+      }
+    } else if (switchparam === 'keepscreenon') {
+
+    } else {
+
+    }
+
+    this.setData({
+      setting,
+    })
+    wx.setStorage({
+      key: 'setting',
+      data: setting,
+    })
   },
   /**
    * 生命周期函数--监听页面加载

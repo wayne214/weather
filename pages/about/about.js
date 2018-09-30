@@ -10,7 +10,23 @@ Page({
     github: 'https://github.com/wayne214',
     qq: '1032928762',
   },
-
+  // 复制
+  copy(e) {
+    console.log('点击内容',e)
+    let dataset = (e.currentTarget || {}).dataset || {}
+    let title = dataset.title
+    let content = dataset.content || ''
+    // 复制到剪贴板上
+    wx.setClipboardData({
+      data: 'content',
+      success() {
+        wx.showToast({
+          title: `已复制${title}`,
+          duration: 2000,
+        })
+      }
+    })
+  },
   /**
    * 生命周期函数--监听页面加载
    */
