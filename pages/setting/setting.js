@@ -5,9 +5,15 @@ Page({
    * 页面的初始数据
    */
   data: {
-
+    setting: {},
+    show: false,
+    SDKVersion: '',
+    enableUpdate: true
   },
-
+  // 打开开关
+  switchChange(e) {
+    console.log('开关',e)
+  },
   /**
    * 生命周期函数--监听页面加载
    */

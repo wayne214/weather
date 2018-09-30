@@ -1,1 +1,47 @@
+<view class='setting'>
+  <!-- 自定义 -->
+  <view class='s'>
+    <view class='t'>
+      <view class='title'>
+        <view>自定义</view>
+      </view>
 
+      <view class='content'>
+        <view class='item'>
+          <view>打开顶部城市天气快速搜索</view>
+          <switch color='#40a7e7' checked='{{setting.hiddenSearch}}' bindchange='switchChange' data-switchparam='hiddenSearch'></switch>
+        </view>
+
+        <view class='item'>
+          <view>显示生活指数</view>
+          <switch color='#40a7e7' checked='{{setting.hiddenIndex}}' bindchange='switchChange' data-switchparam='hiddenIndex'></switch>
+        </view>
+      </view>
+    </view>
+
+    <!-- 检查更新 -->
+    <view class='t'>
+      <view class='title'>
+        <view>检查更新</view>
+      </view>
+
+      <view class='content'>
+        <view class='item'>
+          <view>
+            <view>打开首页更新提醒</view>
+            <view class='tip' catchtap='updateInstruc'>
+              <image src='/images/question.png'></image>
+              <text wx:if='{{enableUpdate}}'>在首页检测到新版本，会提示更新</text>
+              <text wx:if='{{!enableUpdate}}' style='flex:1;'>基础库版本需高于 1.9.90，当前基础库版本为 {{SDKVersion}}</text>
+            </view>
+          </view>
+          <switch color='#40a7e7' checked='{{setting.forceUpdate}}' bindchange='switchChange' data-switchparam='forceUpdate'></switch>
+        </view>
+      </view>
+    </view>
+
+
+
+
+  </view>
+</view>
