@@ -1,0 +1,104 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20rpx;
+}
+
+.wrapper {
+  font-size: 0;
+  background: #fff;
+  padding: 30rpx;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 128rpx;
+  box-sizing: border-box;
+  width: 100%;
+  justify-content: center,
+}
+
+.wrapper .search {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.inner {
+  background: #f4f6f9;
+  font-size: 30rpx;
+  padding: 16rpx 0 16rpx 20rpx;
+  box-sizing: border-box;
+  border-radius: 8rpx;
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.inner input {
+  background: #f4f6f9;
+  font-size: 30rpx;
+  height: 38rpx;
+  /* 覆盖默认样式 min-height */
+  min-height: 38rpx;
+  line-height: 38rpx;
+  width: 100%;
+  box-sizing: border-box;
+}
+.icon {
+  width: 28rpx;
+  height: 28rpx;
+  margin-right: 10rpx;
+}
+.cancel {
+  font-size: 30rpx;
+  display: inline-block;
+  color: #666;
+  width: 2.5em;
+  text-align: right;
+}
+
+.bottom {
+  font-size: 32rpx;
+  color: #333;
+  background: #fff;
+  position: fixed;
+  top: 128rpx;
+  left: 0;
+  z-index: 3;
+  /* margin-top: -80rpx; */
+  width: 100%;
+}
+
+.bottom .key {
+  background: #f4f6f9;
+  height: 50rpx;
+  display: flex;
+  align-items: center;
+  padding: 0 30rpx;
+}
+
+.bottom .values .value {
+  border-bottom: 1rpx solid #efefef;
+  height: 104rpx;
+  display: flex;
+  align-items: center;
+  padding: 0 30rpx;
+}
+
+.bottom .values .value:last-child {
+  border-bottom: none;
+}
+
+.hover {
+  background: #f4f6f9;
+}
+
+.empty {
+  margin-top: 100rpx;
+  font-size: 30rpx;
+  text-align: center;
+  color: #666;
+}

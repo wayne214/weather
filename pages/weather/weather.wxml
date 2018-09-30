@@ -1,0 +1,79 @@
+<!--logs.wxml-->
+<view class="container">
+  <image class='bcg' wx:if='{{bcgImg}}' src='{{bcgImg}}' mode='aspectFill'></image>
+  <view class='search' wx:if='{{!setting.hiddenSearch && !bcgImgAreaShow}}' style='background: rgba(255,255,255,0)'>
+    <view class='wrapper'>
+      <image src='{{searchImg}}'></image>
+      <input placeholder-class='placeholderClass' confirm-type='search' placeholder='查询其他城市' maxlength='20' bindconfirm='commitSearch' value='{{searchText}}' disabled='{{!enableSearch}}'></input>
+    </view>
+  </view>
+  
+  <!-- 更换背景 -->
+  <view class='chooseBcg' wx:if='{{bcgImgAreaShow}}'>
+    <view class='top'>
+      <view class='title'>更换背景</view>
+      <view class='bcgs'>
+        <view class='border {{bcgImgIndex === index ? "active" : ""}}' wx:for='{{bcgImgList}}' wx:key='{{index}}'>
+          <image src='{{item.src}}' catchtap='chooseBcg' data-index='{{index}}' data-src='{{item.src}}'></image>
+        </view>
+      </view>
+    </view>
+    <view class='close' catchtap='hideBcgImgArea'>
+      <image src='/images/up-arrow.png'></image>
+    </view>
+  </view>
+
+  <!-- 内容区域 -->
+  <view class='content' wx:if='{{!bcgImgAreaShow}}'>
+    <!-- 头像区域 -->
+    <view class='avatarInfo' catchtap='showBcgImgArea'>
+      <open-data class='avatar' type='userAvatarUrl'></open-data>
+      <open-data class='name' type='userNickName'></open-data>
+      <image class='downArrow' src='/images/down-arrow.png'></image>
+    </view>
+    <!-- 当前城市 -->
+    <view class='info'>
+      <view class='city'>
+        <view class='name'>{{cityDatas.originalData.results[0].currentCity || '定位中'}}</view>
+        <view class='time'>{{cityDatas.updateTimeFormat}}更新</view>
+      </view>
+      <!-- 提示信息 -->
+      <view class='message'>{{message}}</view>
+      <!-- 当前温度、天气、PM2.5 -->
+      <view wx:if='{{cityDatas.temperature}}' class='temp num' decode='true'>{{cityDatas.temperature}}<text style='font-size:90rpx'>°</text></view>
+      <view class='weather'>{{cityDatas.originalData.results[0].weather_data[0].weather || '--'}}</view>
+      <view class='pm' wx:if='{{cityDatas.pm.val}}'>
+        <text>{{cityDatas.pm.desc}} {{cityDatas.pm.val}}</text>
+      </view>
+    </view>
+
+    <!-- 未来天气 -->
+    <view class='guide' wx:if='{{cityDatas.originalData.results[0].weather_data}}'>
+      <view class='item' wx:for='{{cityDatas.originalData.results[0].weather_data}}' wx:key='{{index}}'>
+        <view class='date i'>{{index === 0 ? '今天' : item.date}}</view>
+        <view class='temperature'>{{item.temperature}}</view>
+        <view class='weather'>{{item.weather}}</view>
+        <view class='wind'>{{item.wind}}</view>
+      </view>
+    </view>
+    <!-- 生活建议 -->
+    <view class='livingIndex' wx:if='{{cityDatas.originalData.results[0].index}}'>
+      <view class='item' wx:for='{{cityDatas.originalData.results[0].index}}' wx:key='{{index}}'>
+        <image class='icon' src='{{icons[index]}}'></image>
+        <view class='right'>
+          <view class='key'>{{item.tipt}} {{item.zs}}</view>
+          <view class='value'>{{item.des}}</view>
+        </view>
+      </view>
+    </view>
+    <view class='footer'>开发者 · wayne</view>
+  </view>
+  <!-- 悬浮菜单 -->
+
+  <view class='menus' wx:if='{{!bcgImgAreaShow}}' catchtouchmove='stopPageScroll'>
+    <image src='/images/location.png' animation="{{animationOne}}" class='menu' bindtap='openLocation' style='top:{{pos.top}}px;left:{{pos.left}}px;'></image>
+    <image src='/images/setting.png' animation="{{animationTwo}}" class='menu' bindtap='openSetting' style='top:{{pos.top}}px;left:{{pos.left}}px;'></image>
+    <image src='/images/info.png' animation="{{animationThree}}" class='menu' bindtap='openInfo' style='top:{{pos.top}}px;left:{{pos.left}}px;'></image>
+    <image src='/images/menu.png' animation="{{animationMain}}" catchtouchmove='menuMainMove' class='menu main' bindtap='openMenu' style='top:{{pos.top}}px;left:{{pos.left}}px;'></image>
+  </view>
+</view>

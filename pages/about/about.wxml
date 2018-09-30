@@ -1,0 +1,53 @@
+<view class='container'>
+  <view class='content'>
+    <view class='item'>
+      <view class='title'>代码已开源</view>
+      <view class='i' catchtap='copy' data-title='项目地址' data-content='{{projectAddress}}'>
+        <view class='icon'>
+          <image src='/images/github.png'></image>
+        </view>
+        <view>{{projectAddress}}</view>
+      </view>
+    </view>
+
+    <view class='item'>
+      <view class='title'>联系开发者</view>
+      <view class='i' catchtap='copy' data-title='GitHub' data-content='{{github}}'>
+        <view class='icon'>
+          <image src='/images/github.png'></image>
+        </view>
+        <view class='text'>
+          <view>通过 GitHub 反馈</view>
+          <view>{{github}}</view>
+        </view>
+      </view>
+
+      <view class='i' catchtap='copy' data-title='QQ' data-content='{{qq}}'>
+        <view class='icon'>
+          <image src='/images/qq.png'></image>
+        </view>
+        <view class='text'>
+          <view>通过 QQ 反馈</view>
+          <view>{{qq}}</view>
+        </view>
+      </view>
+    </view>
+
+    <view class='thanks item'>
+      <view class='title'>鸣谢</view>
+      <view class='i'>
+        <view class='icon'>
+          <image src='/images/location_grey.png'></image>
+        </view>
+        <view class='text'>地理编码：百度地图开放平台</view>
+      </view>
+      <view class='i'>
+        <view class='icon'>
+          <image src='/images/weather_grey.png'></image>
+        </view>
+        <view class='text'>天气数据来源：百度地图开放平台</view>
+      </view>
+    </view>
+
+  </view>
+</view>
