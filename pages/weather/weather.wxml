@@ -24,7 +24,7 @@
   </view>
 
   <!-- 内容区域 -->
-  <view class='content' wx:if='{{!bcgImgAreaShow}}'>
+  <view class='content' wx:if='{{!bcgImgAreaShow}}' style='margin-top: {{setting.hiddenSearch ? 20 : 60}}px'>
     <!-- 头像区域 -->
     <view class='avatarInfo' catchtap='showBcgImgArea'>
       <open-data class='avatar' type='userAvatarUrl'></open-data>

@@ -9,12 +9,12 @@
       <view class='content'>
         <view class='item'>
           <view>打开顶部城市天气快速搜索</view>
-          <switch color='#40a7e7' checked='{{setting.hiddenSearch}}' bindchange='switchChange' data-switchparam='hiddenSearch'></switch>
+          <switch color='#40a7e7' checked='{{!setting.hiddenSearch}}' bindchange='switchChange' data-switchparam='hiddenSearch'></switch>
         </view>
 
         <view class='item'>
           <view>显示生活指数</view>
-          <switch color='#40a7e7' checked='{{setting.hiddenIndex}}' bindchange='switchChange' data-switchparam='hiddenIndex'></switch>
+          <switch color='#40a7e7' checked='{{!setting.hiddenIndex}}' bindchange='switchChange' data-switchparam='hiddenIndex'></switch>
         </view>
       </view>
     </view>

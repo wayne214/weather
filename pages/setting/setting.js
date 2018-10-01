@@ -18,7 +18,7 @@ Page({
     let setting = this.data.setting
     if (switchparam === 'forceUpdate') {
       if(this.data.enableUpdate) {
-        seeting[switchparam] = (e.detail || {}).value
+        setting[switchparam] = (e.detail || {}).value
       } else {
         setting[switchparam] = false
         wx.showToast({
@@ -30,7 +30,7 @@ Page({
     } else if (switchparam === 'keepscreenon') {
 
     } else {
-
+      setting[switchparam] = !(e.detail || {}).value
     }
 
     this.setData({
@@ -59,7 +59,20 @@ Page({
    * 生命周期函数--监听页面显示
    */
   onShow: function () {
-
+    wx.getStorage({
+      key: 'setting',
+      success: (res) => {
+        let setting = res.data
+        this.setData({
+          setting,
+        })
+      },
+      fail: (res) => {
+        this.setData({
+          setting: {},
+        })
+      },
+    })
   },
 
   /**

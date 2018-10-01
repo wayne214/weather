@@ -7,7 +7,7 @@ let SYSTEMINFO = globalData.systeminfo
 
 Page({
   data: {
-    nowWeather: {},
+    setting: {},
     bcgImg: '',
     searchImg: '/images/search.png',
     cityDatas: {},
@@ -320,9 +320,52 @@ Page({
     })
   },
 
+  initSetting(successfun) {
+    wx.getStorage({
+      key: 'setting',
+      success: (res)=> {
+        let setting = res.data || {}
+        this.setData({
+          setting,
+        })
+
+        successfun && successfun(setting)
+      },
+      fail: ()=> {
+        this.setData({
+          setting: {}
+        })
+      }
+    })
+  },
+  checkUpdate(setting){
+    if (!setting.forceUpdate || !wx.getUpdateManager) {
+      return
+    }
+
+    let updateManager = wx.getUpdateManager()
+    updateManager.onCheckForUpdate((res) => {
+      console.error(res)
+    })
+    updateManager.onUpdateReady(function () {
+      wx.showModal({
+        title: '更新提示',
+        content: '新版本已下载完成，是否重启应用？',
+        success: function (res) {
+          if (res.confirm) {
+            updateManager.applyUpdate()
+          }
+        }
+      })
+    })
+  },
   onShow: function() {
     this.setBcgImg()
     this.getCityDatas()
+    this.setNavigationBarColor('#2d2225')
+    this.initSetting((setting)=> {
+      this.checkUpdate(setting)
+    })
     if(!this.data.cityChanged) {
       this.init({})
     } else {
