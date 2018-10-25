@@ -40,7 +40,7 @@
       <!-- 提示信息 -->
       <view class='message'>{{message}}</view>
       <!-- 当前温度、天气、PM2.5 -->
-      <view wx:if='{{cityDatas.temperature}}' class='temp num' decode='true'>{{cityDatas.temperature}}<text style='font-size:90rpx'>°</text></view>
+      <view wx:if='{{cityDatas.temperature}}' class='temp num' decode='true'>{{cityDatas.temperature}}<text style='font-size:60rpx'>℃</text></view>
       <view class='weather'>{{cityDatas.originalData.results[0].weather_data[0].weather || '--'}}</view>
       <view class='pm' wx:if='{{cityDatas.pm.val}}'>
         <text>{{cityDatas.pm.desc}} {{cityDatas.pm.val}}</text>

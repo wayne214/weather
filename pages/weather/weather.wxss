@@ -196,6 +196,7 @@ page {
 .temp {
   height: 360rpx;
   font-size: 200rpx;
+  align-items: flex-start
 }
 .guide {
   display: flex;
