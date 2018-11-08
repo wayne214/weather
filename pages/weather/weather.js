@@ -538,14 +538,12 @@ Page({
   },
   onLoad: function (options) {
     topnews.topNews('top').then((data)=> {
-      console.log('头条',data);
       this.setData({
         newList: data.result.data
       })
     })
   },
   chatTopNews: function(item) {
-    console.log('item',item);
     const index = item.currentTarget.dataset.index
     const newsdata = JSON.stringify(this.data.newList[index])
     wx.navigateTo({
