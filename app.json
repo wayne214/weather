@@ -4,7 +4,8 @@
     "pages/setting/setting",
     "pages/mine/mine",
     "pages/about/about",
-    "pages/city/city"
+    "pages/city/city",
+    "pages/news/news"
   ],
   "window":{
     "backgroundTextStyle":"light",

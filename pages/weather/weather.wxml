@@ -39,6 +39,7 @@
       </view>
       <!-- 提示信息 -->
       <view class='message'>{{message}}</view>
+      <view class='message' bindtap='chatTopNews'>今日头条</view>
       <!-- 当前温度、天气、PM2.5 -->
       <view wx:if='{{cityDatas.temperature}}' class='temp num' decode='true'>{{cityDatas.temperature}}<text style='font-size:60rpx'>℃</text></view>
       <view class='weather'>{{cityDatas.originalData.results[0].weather_data[0].weather || '--'}}</view>
@@ -66,6 +67,23 @@
         </view>
       </view>
     </view>
+
+    <!-- 新闻头条 -->
+    <view class='news'>
+      <view class='newsitem' wx:for='{{newList}}' wx:key='{{index}}' bindtap='chatTopNews' data-index='{{index}}'>
+        <view class='left'>
+          <view class='title'>{{item.title}}</view>
+          <view class='time'>
+            <view class='author_name'>{{item.author_name}}  </view>
+            <view class='author_name'>{{item.date}}</view>
+          </view>
+
+        </view>
+        <image class='icon' src='{{item.thumbnail_pic_s}}'></image>
+        
+      </view>
+    </view>
+
     <view class='footer'>开发者 · wayne</view>
   </view>
   <!-- 悬浮菜单 -->
@@ -76,4 +94,6 @@
     <image src='/images/info.png' animation="{{animationThree}}" class='menu' bindtap='openInfo' style='top:{{pos.top}}px;left:{{pos.left}}px;'></image>
     <image src='/images/menu.png' animation="{{animationMain}}" catchtouchmove='menuMainMove' class='menu main' bindtap='openMenu' style='top:{{pos.top}}px;left:{{pos.left}}px;'></image>
   </view>
+
+  
 </view>
