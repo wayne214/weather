@@ -549,5 +549,11 @@ Page({
     wx.navigateTo({
       url: '/pages/news/news?newsdata=' + newsdata,
     })
+  },
+  onReachBottom: function() {
+    console.log('bottom')
+  },
+  onPullDownRefresh: function() {
+    console.log('refresh')
   }
 })

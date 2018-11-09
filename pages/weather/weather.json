@@ -1,4 +1,5 @@
 {
   "navigationBarTitleText": "清风天气",
-  "enablePullDownRefresh": true
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50
 }
