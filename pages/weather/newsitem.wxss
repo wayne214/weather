@@ -1,0 +1,21 @@
+.left {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 0 24rpx;
+  justify-content: space-between;
+}
+
+.left .author_name {
+  font-size: 16rpx;
+}
+
+.left .title {
+  font-size: 24rpx;
+}
+
+.left .time {
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+}

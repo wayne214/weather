@@ -1,0 +1,11 @@
+<!-- 新闻列表的item template -->
+<template name='newsitem'>
+  <view class='left'>
+          <view class='title'>{{title}}</view>
+          <view class='time'>
+            <view class='author_name'>{{author_name}}                 </view>
+            <view class='author_name'>{{date}}</view>
+          </view>
+
+  </view>
+</template>

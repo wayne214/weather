@@ -1,4 +1,6 @@
 <!--logs.wxml-->
+<!-- 导入新闻列表item -->
+<import src='newsitem.wxml' />
 <view class="container">
   <image class='bcg' wx:if='{{bcgImg}}' src='{{bcgImg}}' mode='aspectFill'></image>
   <view class='search' wx:if='{{!setting.hiddenSearch && !bcgImgAreaShow}}' style='background: rgba(255,255,255,0)'>
@@ -71,14 +73,7 @@
     <!-- 新闻头条 -->
     <view class='news'>
       <view class='newsitem' wx:for='{{newList}}' wx:key='{{index}}' bindtap='chatTopNews' data-index='{{index}}'>
-        <view class='left'>
-          <view class='title'>{{item.title}}</view>
-          <view class='time'>
-            <view class='author_name'>{{item.author_name}}  </view>
-            <view class='author_name'>{{item.date}}</view>
-          </view>
-
-        </view>
+        <template is='newsitem' data="{{...item}}" />
         <image class='icon' src='{{item.thumbnail_pic_s}}'></image>
         
       </view>
