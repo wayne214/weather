@@ -537,10 +537,21 @@ Page({
     }
   },
   onLoad: function (options) {
+    var that = this;
+    var list = wx.getStorageSync('newslist')
+
+    if (list) {
+      that.setData({
+        newList: list
+      })
+    }
+
     topnews.topNews('top').then((data)=> {
       this.setData({
         newList: data.result.data
       })
+
+      wx.setStorageSync('newslist', data.result.data)
     })
   },
   chatTopNews: function(item) {
