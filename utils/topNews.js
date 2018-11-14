@@ -1,4 +1,4 @@
-const URI = 'http://v.juhe.cn/toutiao/index';
+const URI = 'https://v.juhe.cn/toutiao/index';
 
 const fetch = require('./fetch.js');
 

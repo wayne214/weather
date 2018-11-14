@@ -13,6 +13,7 @@ Page({
    */
   onLoad: function (options) {
     const news = JSON.parse(options.newsdata);
+    console.log('地址', news)
     this.setData({
       newsUrl: news.url
     })
