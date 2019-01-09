@@ -9,11 +9,7 @@
   font-size: 0;
   background: #fff;
   padding: 30rpx;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
+  position: relative;
   height: 128rpx;
   box-sizing: border-box;
   width: 100%;
@@ -64,12 +60,6 @@
   font-size: 32rpx;
   color: #333;
   background: #fff;
-  position: fixed;
-  top: 128rpx;
-  left: 0;
-  z-index: 3;
-  /* margin-top: -80rpx; */
-  width: 100%;
 }
 
 .bottom .key {
