@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8ed204d-4fe8-4a0f-831d-941ee6f9ae91" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taroConvert/src/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taroConvert/dist/js/app.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taroConvert/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taroConvert/config/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-227" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/taroConvert/src/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-891">
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/taroConvert/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/.bin/mini-css-extract-plugin/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/.bin/mini-css-extract-plugin/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/.bin/terser-webpack-plugin/node_modules/cacache/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/.bin/terser-webpack-plugin/node_modules/find-cache-dir/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/.bin/terser-webpack-plugin/node_modules/mississippi/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/.bin/terser-webpack-plugin/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/.bin/terser-webpack-plugin/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/.bin/terser-webpack-plugin/node_modules/ssri/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/.bin/terser-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/.bin/url-loader/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/.bin/url-loader/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@babel/code-frame/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@babel/generator/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@babel/generator/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@babel/generator/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@babel/helper-function-name/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@babel/helper-get-function-arity/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@babel/helper-split-export-declaration/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@babel/highlight/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@babel/template/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@babel/template/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@babel/traverse/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@babel/traverse/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@babel/traverse/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@babel/traverse/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@babel/types/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/components/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/plugin-babel/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/plugin-csso/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/plugin-sass/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/plugin-uglifyjs/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/router/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/taro-alipay/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/taro-h5/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/taro-swan/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/taro-tt/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/taro-weapp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/taro/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/webpack-runner/node_modules/.bin/mini-css-extract-plugin/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/webpack-runner/node_modules/.bin/mini-css-extract-plugin/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/webpack-runner/node_modules/.bin/url-loader/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/webpack-runner/node_modules/.bin/url-loader/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/webpack-runner/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/with-weapp/node_modules/@tarojs/taro/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@tarojs/with-weapp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@types/lodash/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@types/prop-types/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@types/react/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@types/webpack-env/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/ast/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/floating-point-hex-parser/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/helper-api-error/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/helper-buffer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/helper-code-frame/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/helper-fsm/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/helper-module-context/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/helper-wasm-bytecode/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/helper-wasm-section/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/leb128/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/utf8/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/wasm-edit/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/wasm-gen/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/wasm-opt/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/wasm-parser/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/wast-parser/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@webassemblyjs/wast-printer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@xtuc/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/@xtuc/long/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/acorn-dynamic-import/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/acorn-jsx/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/acorn-jsx/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/adjust-sourcemap-loader/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/adjust-sourcemap-loader/node_modules/lodash.defaults/node_modules/lodash.assign/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/adjust-sourcemap-loader/node_modules/lodash.defaults/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/adjust-sourcemap-loader/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ajv-errors/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ajv-keywords/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ansi-colors/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ansi-escapes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ansi-html/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/argparse/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/arr-union/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/array-find-index/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/array-includes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/array-union/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/asn1.js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/assert/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/assert/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/assert/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/assign-symbols/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/async-each/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/async-foreach/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/atob/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-code-frame/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-code-frame/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-code-frame/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-code-frame/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-core/node_modules/slash/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-core/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-core/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-eslint/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-eslint/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-generator/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-generator/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-helper-builder-binary-assignment-operator-visitor/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-helper-builder-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-helper-call-delegate/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-helper-define-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-helper-explode-assignable-expression/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-helper-function-name/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-helper-get-function-arity/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-helper-hoist-variables/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-helper-optimise-call-expression/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-helper-regex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-helper-remap-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-helper-replace-supers/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-helpers/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-loader/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-messages/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-check-es2015-constants/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-syntax-async-functions/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-syntax-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-syntax-decorators/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-syntax-dynamic-import/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-syntax-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-syntax-jsx/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-syntax-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-syntax-trailing-function-commas/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-decorators-legacy/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-arrow-functions/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-block-scoped-functions/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-block-scoping/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-classes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-computed-properties/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-destructuring/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-duplicate-keys/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-for-of/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-function-name/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-literals/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-modules-amd/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-modules-commonjs/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-modules-systemjs/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-modules-umd/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-object-super/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-parameters/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-shorthand-properties/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-spread/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-sticky-regex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-template-literals/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-typeof-symbol/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-es2015-unicode-regex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-jsx-stylesheet/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-regenerator/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-plugin-transform-strict-mode/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-preset-env/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-register/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-runtime/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-template/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-traverse/node_modules/globals/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-traverse/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-types/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babel-types/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/base/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/base/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/batch/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/big.js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/binary-extensions/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/block-stream/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/bonjour/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/bonjour/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/boolbase/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/brorand/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/browserify-aes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/browserify-cipher/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/browserify-des/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/browserify-rsa/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/browserify-sign/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/browserify-zlib/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/buffer-from/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/buffer-indexof/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/buffer-xor/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/buffer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/builtin-modules/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/builtin-status-codes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cacache/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cache-base/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/caller-path/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/callsites/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/camel-case/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/camelcase-keys/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/camelcase-keys/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/caniuse-lite/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/chardet/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/chrome-trace-event/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cipher-base/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/circular-json/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/class-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/classnames/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/clean-css/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/clean-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cli-cursor/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cli-spinners/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cli-width/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cliui/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cliui/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/clone-deep/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/clone-deep/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/collection-visit/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/commondir/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/compressible/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/compression/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/connect-history-api-fallback/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/console-browserify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/constants-browserify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/contains-path/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/convert-source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/copy-concurrently/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/copy-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cosmiconfig/node_modules/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cosmiconfig/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/create-ecdh/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/create-hash/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/create-hmac/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/crypto-browserify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-loader/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-modules-loader-core/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-modules-loader-core/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-modules-loader-core/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-modules-loader-core/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-modules-loader-core/node_modules/postcss-modules-extract-imports/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-modules-loader-core/node_modules/postcss-modules-extract-imports/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-modules-loader-core/node_modules/postcss-modules-extract-imports/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-modules-loader-core/node_modules/postcss-modules-extract-imports/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-modules-loader-core/node_modules/postcss-modules-extract-imports/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-modules-loader-core/node_modules/postcss-modules-extract-imports/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-modules-loader-core/node_modules/postcss-modules-extract-imports/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-modules-loader-core/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-modules-loader-core/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-modules-loader-core/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-modules-loader-core/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-parse/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-select/node_modules/domutils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-select/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-selector-tokenizer/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-selector-tokenizer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-tree/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-tree/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css-what/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/css/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cssesc/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/csso-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/csso/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/csstype/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/currently-unhandled/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/cyclist/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/date-now/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/decode-uri-component/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/deep-is/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/deepmerge/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/default-gateway/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/defaults/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/defaults/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/define-properties/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/define-property/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/define-property/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/define-property/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/define-property/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/define-property/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/del/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/del/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/des.js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/detect-indent/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/detect-libc/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/detect-node/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/diffie-hellman/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/dns-equal/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/dns-packet/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/dns-txt/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/doctrine/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/dom-converter/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/dom-serializer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/domain-browser/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/domhandler/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/domutils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/duplexify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/electron-to-chromium/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/elliptic/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/emojis-list/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/enhanced-resolve/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/errno/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/error-ex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/es-abstract/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/es-to-primitive/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-config-taro/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-import-resolver-node/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-module-utils/node_modules/pkg-dir/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-module-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-plugin-import/memo-parser/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-plugin-import/node_modules/doctrine/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-plugin-import/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-plugin-import/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-plugin-import/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-plugin-import/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-plugin-import/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-plugin-import/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-plugin-import/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-plugin-import/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-plugin-import/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-plugin-import/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-plugin-import/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-plugin-react/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-plugin-taro/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-scope/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint-visitor-keys/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint/node_modules/eslint-scope/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eslint/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/espree/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/esquery/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/esrecurse/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/estraverse/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eventemitter3/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/events/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/eventsource/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/evp_bytestokey/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/execa/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/external-editor/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/external-editor/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/extglob/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fast-levenshtein/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fastparse/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/figgy-pudding/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/figures/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/file-entry-cache/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/file-loader/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/find-cache-dir/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/find-cache-dir/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/find-cache-dir/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/find-cache-dir/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/find-cache-dir/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/find-cache-dir/node_modules/pkg-dir/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/find-cache-dir/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/find-up/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/flat-cache/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/flush-write-stream/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/follow-redirects/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/follow-redirects/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/for-own/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fragment-cache/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/from2/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fs-minipass/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fs-write-stream-atomic/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/detect-libc/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/fs-minipass/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/ignore-walk/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/minipass/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/minizlib/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/needle/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/node-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/npm-bundled/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/npm-packlist/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/rc/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fsevents/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/fstream/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/functional-red-black-tree/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/gauge/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/gauge/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/gaze/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/generic-names/node_modules/loader-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/generic-names/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/get-caller-file/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/get-stdin/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/get-value/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/glob-parent/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/globals/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/globule/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/handle-thing/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/has-symbols/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/has-values/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/has/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/hash-base/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/hash.js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/he/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/hmac-drbg/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/home-or-tmp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/hpack.js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/html-entities/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/html-minifier/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/html-webpack-include-assets-plugin/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/html-webpack-plugin/node_modules/loader-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/html-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/htmlparser2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/htmlparser2/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/htmlparser2/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/htmlparser2/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/http-deceiver/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/http-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/http-proxy-middleware/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/http-proxy/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/https-browserify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/icss-replace-symbols/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/icss-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/iferr/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ignore-walk/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ignore/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/image-size/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/import-cwd/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/import-from/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/import-local/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/imurmurhash/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/in-publish/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/in-publish/test/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/indent-string/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/inquirer/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/inquirer/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/inquirer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/internal-ip/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/invariant/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ip-regex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ip/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-arrayish/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-binary-path/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-builtin-module/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-callable/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-date-object/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-directory/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-finite/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-path-cwd/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-path-in-cwd/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-path-inside/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-plain-object/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-regex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-resolvable/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-symbol/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-windows/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/is-wsl/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/javascript-stringify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/js-base64/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/json-parse-better-errors/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/json-stable-stringify-without-jsonify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/json3/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/jsonp-retry/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/jsx-ast-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/killable/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/kleur/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/less-loader/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/less-loader/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/less/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/less/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/less/test/import-module/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/levn/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/loader-runner/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/loader-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash._baseassign/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash._basecopy/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash._bindcallback/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash._createassigner/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash._getnative/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash._isiterateecall/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash.assign/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash.camelcase/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash.clonedeep/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash.debounce/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash.defaults/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash.isarguments/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash.isarray/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash.keys/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash.mergewith/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash.restparam/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash.tail/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/log-symbols/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/loglevel/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/loose-envify/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/loud-rejection/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lower-case/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lru-cache/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/make-dir/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/map-age-cleaner/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/map-cache/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/map-obj/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/map-visit/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/md5.js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mdn-data/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mem/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/memory-fs/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/meow/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/micromatch/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/micromatch/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/micromatch/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/micromatch/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/miller-rabin/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mimic-fn/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mini-css-extract-plugin/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mini-css-extract-plugin/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/minimalistic-assert/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/minimalistic-crypto-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/minipass/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/minizlib/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mississippi/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mixin-deep/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mixin-deep/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mixin-object/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mixin-object/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mobile-detect/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/move-concurrently/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/multicast-dns-service-types/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/multicast-dns/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/mute-stream/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/nanomatch/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/nanomatch/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/nanomatch/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/nanomatch/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/nanomatch/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/natural-compare/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/needle/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/needle/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/needle/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/neo-async/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/nerv-devtools/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/nerv-shared/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/nerv-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/nervjs/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/nice-try/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/no-case/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/node-forge/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/node-gyp/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/node-gyp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/node-libs-browser/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/node-libs-browser/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/node-pre-gyp/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/node-pre-gyp/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/node-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/node-sass/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/node-sass/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/node-sass/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/node-sass/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/node-sass/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/normalize-range/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/npm-bundled/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/npm-packlist/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/npm-run-path/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/nth-check/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/num2fraction/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/object-copy/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/object-keys/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/object-path/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/object-visit/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/object.getownpropertydescriptors/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/object.pick/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/obuf/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/omit.js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/onetime/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/opn/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/optionator/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ora/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ora/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ora/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/original/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/os-browserify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/p-defer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/p-is-promise/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/p-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/pako/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/parallel-transform/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/param-case/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/parse-asn1/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/pascalcase/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/path-browserify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/path-dirname/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/path-is-inside/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/path-key/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/path-parse/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/pbkdf2/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/pkg-dir/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/pkg-dir/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/pluralize/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/portfinder/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/portfinder/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/posix-character-classes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-csso/node_modules/css-tree/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-csso/node_modules/csso/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-csso/node_modules/mdn-data/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-csso/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-csso/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-load-config/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-loader/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-modules-extract-imports/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-modules-local-by-default/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-modules-scope/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-modules-values/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-modules/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-modules/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-plugin-constparse/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-pxtorem/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-pxtorem/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-pxtorem/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-pxtorem/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-pxtorem/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-pxtorem/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-pxtorem/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-pxtorem/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-pxtransform/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss-value-parser/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/prelude-ls/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/pretty-error/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/private/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/process/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/progress/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/promise-inflight/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/prop-types/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/prr/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/psl/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/public-encrypt/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/pumpify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/querystring-es3/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/querystring/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/querystringify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/randombytes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/randomfill/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/redent/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/regenerate/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/regenerator-transform/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/regex-not/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/regex-not/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/regex-not/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/regex-parser/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/regexpp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/regjsgen/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/regjsparser/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/regjsparser/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/relateurl/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/renderkid/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/repeating/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/require-directory/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/require-from-string/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/require-main-filename/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/require-uncached/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/require-uncached/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/requires-port/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-cwd/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-pathname/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/.cache/webpack1-sassloader3-sass4/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/.cache/webpack2-sassloader6-sass4/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/.cache/webpack3-sassloader6-sass4/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/.cache/webpack4-sassloader7-sass4/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/postcss/absolute-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/postcss/adjacent-asset/packageA/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/postcss/adjacent-asset/packageB/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/postcss/deep-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/postcss/http-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/postcss/immediate-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/postcss/misconfiguration/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/postcss/module-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/postcss/nested-import-mixed-quotes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/postcss/root-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/postcss/selector-in-directive/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/postcss/shallow-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/rework/absolute-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/rework/adjacent-asset/packageA/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/rework/adjacent-asset/packageB/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/rework/deep-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/rework/http-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/rework/immediate-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/rework/misconfiguration/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/rework/module-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/rework/nested-import-mixed-quotes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/rework/root-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack1-sassloader3-sass4/rework/shallow-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/postcss/absolute-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/postcss/adjacent-asset/packageA/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/postcss/adjacent-asset/packageB/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/postcss/deep-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/postcss/http-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/postcss/immediate-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/postcss/misconfiguration/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/postcss/module-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/postcss/nested-import-mixed-quotes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/postcss/root-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/postcss/selector-in-directive/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/postcss/shallow-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/rework/absolute-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/rework/adjacent-asset/packageA/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/rework/adjacent-asset/packageB/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/rework/deep-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/rework/http-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/rework/immediate-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/rework/misconfiguration/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/rework/module-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/rework/nested-import-mixed-quotes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/rework/root-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack2-sassloader6-sass4/rework/shallow-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/postcss/absolute-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/postcss/adjacent-asset/packageA/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/postcss/adjacent-asset/packageB/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/postcss/deep-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/postcss/http-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/postcss/immediate-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/postcss/misconfiguration/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/postcss/module-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/postcss/nested-import-mixed-quotes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/postcss/root-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/postcss/selector-in-directive/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/postcss/shallow-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/rework/absolute-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/rework/adjacent-asset/packageA/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/rework/adjacent-asset/packageB/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/rework/deep-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/rework/http-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/rework/immediate-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/rework/misconfiguration/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/rework/module-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/rework/nested-import-mixed-quotes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/rework/root-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack3-sassloader6-sass4/rework/shallow-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/postcss/absolute-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/postcss/adjacent-asset/packageA/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/postcss/adjacent-asset/packageB/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/postcss/deep-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/postcss/http-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/postcss/immediate-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/postcss/misconfiguration/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/postcss/module-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/postcss/nested-import-mixed-quotes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/postcss/root-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/postcss/selector-in-directive/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/postcss/shallow-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/rework/absolute-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/rework/adjacent-asset/packageA/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/rework/adjacent-asset/packageB/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/rework/deep-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/rework/http-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/rework/immediate-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/rework/misconfiguration/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/rework/module-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/rework/nested-import-mixed-quotes/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/rework/root-relative-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url-loader/tmp/1536277707/webpack4-sassloader7-sass4/rework/shallow-asset/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve-url/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve/test/resolver/browser_field/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve/test/resolver/dot_main/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve/test/resolver/dot_slash_main/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve/test/resolver/invalid_main/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve/test/resolver/multirepo/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve/test/resolver/multirepo/packages/package-a/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/restore-cursor/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ret/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/rework-visit/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/rework/node_modules/convert-source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/rework/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ripemd160/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/rollup-plugin-alias/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/run-async/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/run-queue/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/rx-lite-aggregates/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/rx-lite/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/safe-regex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sass-graph/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sass-graph/node_modules/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sass-graph/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sass-graph/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sass-graph/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sass-graph/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sass-graph/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sass-graph/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sass-graph/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sass-graph/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sass-graph/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sass-loader/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sass-loader/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/scss-tokenizer/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/scss-tokenizer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/select-hose/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/selfsigned/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/serialize-javascript/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/serve-index/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/setimmediate/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sha.js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/shallow-clone/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/shallow-clone/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/shebang-command/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/shebang-regex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/slash/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/slice-ansi/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/snapdragon-node/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/snapdragon-node/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/snapdragon-util/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/snapdragon/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/snapdragon/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sockjs-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sockjs-client/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sockjs-client/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sockjs-client/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sockjs/examples/echo/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sockjs/examples/express-3.x/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sockjs/examples/express/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sockjs/examples/hapi/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sockjs/examples/koa/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sockjs/examples/multiplex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sockjs/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/source-list-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/source-map-resolve/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/source-map-support/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/source-map-support/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/source-map-url/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/spdx-exceptions/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/spdy-transport/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/spdy/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/split-string/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/split-string/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/split-string/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sprintf-js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/ssri/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/static-extend/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/stdout-stream/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/stream-browserify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/stream-each/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/stream-http/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/stream-http/test/browser/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/stream-shift/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/string-hash/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/string-width/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/string-width/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/strip-eof/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/strip-indent/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/style-loader/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/stylus-loader/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/stylus/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/stylus/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/stylus/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/stylus/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/stylus/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/table/node_modules/ajv-keywords/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/table/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/table/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/table/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/table/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/tapable/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/terser-webpack-plugin/node_modules/cacache/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/terser-webpack-plugin/node_modules/find-cache-dir/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/terser-webpack-plugin/node_modules/mississippi/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/terser-webpack-plugin/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/terser-webpack-plugin/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/terser-webpack-plugin/node_modules/ssri/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/terser-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/terser/node_modules/source-map-support/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/terser/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/text-table/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/through/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/thunky/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/timers-browserify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/tmp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/to-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/to-object-path/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/to-regex-range/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/to-regex/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/to-regex/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/to-regex/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/to-regex/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/toposort/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/trim-newlines/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/trim-right/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/true-case-path/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/tslib/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/tty-browserify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/type-check/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/typedarray/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/uglify-es/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/uglify-es/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/uglifyjs-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/union-value/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/union-value/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/unique-filename/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/unique-slug/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/unset-value/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/unset-value/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/unset-value/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/upath/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/upper-case/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/uri-js/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/uri-js/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/urix/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/url-loader/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/url-loader/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/url-parse/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/url/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/url/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/use/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/util.promisify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/utila/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/value-equal/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/verror/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/vm-browserify/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/warning/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/watchpack/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/wbuf/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/wcwidth/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack-chain/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack-dev-middleware/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack-dev-server/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack-dev-server/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack-dev-server/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack-dev-server/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack-format-messages/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack-log/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack-merge/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack-sources/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack/node_modules/.bin/terser-webpack-plugin/node_modules/cacache/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack/node_modules/.bin/terser-webpack-plugin/node_modules/find-cache-dir/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack/node_modules/.bin/terser-webpack-plugin/node_modules/mississippi/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack/node_modules/.bin/terser-webpack-plugin/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack/node_modules/.bin/terser-webpack-plugin/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack/node_modules/.bin/terser-webpack-plugin/node_modules/ssri/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack/node_modules/.bin/terser-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack/node_modules/eslint-scope/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/webpack/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/websocket-driver/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/websocket-extensions/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/weui/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/whatwg-fetch/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/when/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/worker-farm/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/wrap-ansi/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/wrap-ansi/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/write/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/xregexp/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/yargs-parser/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/yargs/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/yargs/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/taroConvert/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wechatWeatherDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wechatWeatherDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wechatWeatherDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wechatWeatherDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="taroConvert" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wechatWeatherDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wechatWeatherDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="taroConvert" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wechatWeatherDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wechatWeatherDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="taroConvert" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8ed204d-4fe8-4a0f-831d-941ee6f9ae91" name="Default" comment="" />
+      <created>1545105805865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545105805865</updated>
+      <workItem from="1545105807278" duration="1350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1350000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/taroConvert/src/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taroConvert/dist/js/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taroConvert/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taroConvert/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-227" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taroConvert/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891">
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
