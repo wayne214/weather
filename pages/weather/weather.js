@@ -299,8 +299,10 @@ Page({
   },
   // 显示设置背景区域
   showBcgImgArea() {
+    this.takeback()
     this.setData({
       bcgImgAreaShow: true,
+      hasPopped: false
     })
   },
   // 隐藏设置背景区域
