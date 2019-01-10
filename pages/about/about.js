@@ -18,7 +18,7 @@ Page({
     let content = dataset.content || ''
     // 复制到剪贴板上
     wx.setClipboardData({
-      data: 'content',
+      data: content,
       success() {
         wx.showToast({
           title: `已复制${title}`,

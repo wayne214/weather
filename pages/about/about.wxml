@@ -47,12 +47,12 @@
         </view>
         <view class='text'>天气数据来源：百度地图开放平台</view>
       </view>
-      <view class='i'>
+      <!-- <view class='i'>
         <view class='icon'>
           <image src='/images/news.png'></image>
         </view>
         <view class='text'>新闻数据来源：聚合数据平台</view>
-      </view>
+      </view> -->
     </view>
 
   </view>

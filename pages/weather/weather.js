@@ -122,7 +122,7 @@ Page({
   // 成功回调
   success(data) {
     wx.stopPullDownRefresh()
-    // console.log('百度地图数据', data);
+    console.log('百度地图数据', data);
     let now = new Date()
     //存下源数据
     data.updateTime = now.getTime()

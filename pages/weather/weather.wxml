@@ -70,13 +70,13 @@
     </view>
 
     <!-- 新闻头条 -->
-    <view class='news'>
+    <!-- <view class='news'>
       <view class='newsitem' wx:for='{{newList}}' wx:key='{{index}}' bindtap='chatTopNews' data-index='{{index}}'>
         <template is='newsitem' data="{{...item}}" />
         <image class='icon' src='{{item.thumbnail_pic_s}}'></image>
         
       </view>
-    </view>
+    </view> -->
 
     <view class='footer'>开发者 · wayne</view>
   </view>
