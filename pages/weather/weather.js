@@ -68,8 +68,6 @@ Page({
     ],
     newsList: [],
   },
-  onLoad: function () {
-  },
   onPullDownRefresh(res) {
     this.init({})
   },
@@ -323,6 +321,16 @@ Page({
       },
     })
   },
+  getNewsList() {
+    topnews.topNews('').then((data) => {
+      console.log('-电影数据', data)
+      this.setData({
+        newList: data.data.toutiao
+      })
+
+      // wx.setStorageSync('newslist', data.result.data)
+    })
+  },
 
   initSetting(successfun) {
     wx.getStorage({
@@ -366,6 +374,7 @@ Page({
   onShow: function() {
     this.setBcgImg()
     this.getCityDatas()
+    // this.getNewsList()
     this.setNavigationBarColor('#2d2225')
     this.initSetting((setting)=> {
       this.checkUpdate(setting)
@@ -549,7 +558,7 @@ Page({
       })
     }
 
-    topnews.topNews('').then((data)=> {
+    topnews.topNews('').then((data) => {
       console.log('-电影数据', data)
       this.setData({
         newList: data.data.toutiao

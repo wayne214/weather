@@ -11,11 +11,6 @@
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#40a7e7",
     "navigationBarTitleText": "清风天气",
-    "navigationBarTextStyle":"light"
-  },
-  "networkTimeout": { 
-    "request": 10000,
-    "downloadfile": 10000
-  },
-  "dubug": true 
+    "navigationBarTextStyle":"white"
+  }
 }
