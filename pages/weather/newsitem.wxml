@@ -3,8 +3,8 @@
   <view class='left'>
           <view class='title'>{{title}}</view>
           <view class='time'>
-            <view class='author_name'>{{author_name}}                 </view>
-            <view class='author_name'>{{date}}</view>
+            <view class='author_name'>{{source}}                 </view>
+            <view class='author_name'>{{ptime}}</view>
           </view>
 
   </view>

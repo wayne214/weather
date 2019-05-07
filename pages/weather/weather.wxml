@@ -32,6 +32,7 @@
       <open-data class='avatar' type='userAvatarUrl'></open-data>
       <open-data class='name' type='userNickName'></open-data>
       <image class='downArrow' src='/images/down-arrow.png'></image>
+      <view bindtap='openSetting'>新闻头条</view>
     </view>
     <!-- 当前城市 -->
     <view class='info'>
@@ -70,13 +71,13 @@
     </view>
 
     <!-- 新闻头条 -->
-    <!-- <view class='news'>
+    <view class='news'>
       <view class='newsitem' wx:for='{{newList}}' wx:key='{{index}}' bindtap='chatTopNews' data-index='{{index}}'>
         <template is='newsitem' data="{{...item}}" />
-        <image class='icon' src='{{item.thumbnail_pic_s}}'></image>
+        <image class='icon' src='{{item.picInfo[0].url}}'></image>
         
       </view>
-    </view> -->
+    </view>
 
     <view class='footer'>开发者 · wayne</view>
   </view>

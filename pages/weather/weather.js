@@ -541,6 +541,7 @@ Page({
   onLoad: function (options) {
     var that = this;
     var list = wx.getStorageSync('newslist')
+    list = null;
 
     if (list) {
       that.setData({
@@ -548,12 +549,13 @@ Page({
       })
     }
 
-    topnews.topNews('top').then((data)=> {
+    topnews.topNews('').then((data)=> {
+      console.log('-电影数据', data)
       this.setData({
-        newList: data.result.data
+        newList: data.data.toutiao
       })
 
-      wx.setStorageSync('newslist', data.result.data)
+      // wx.setStorageSync('newslist', data.result.data)
     })
   },
   chatTopNews: function(item) {
@@ -564,9 +566,6 @@ Page({
     })
   },
   onReachBottom: function() {
-    console.log('bottom')
-  },
-  onPullDownRefresh: function() {
-    console.log('refresh')
+    console.log('bottom') 
   }
 })

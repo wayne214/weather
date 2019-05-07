@@ -1,4 +1,4 @@
-const URI = 'https://v.juhe.cn/toutiao/index';
+const URI = 'https://www.apiopen.top/journalismApi';
 
 const fetch = require('./fetch.js');
 
@@ -8,8 +8,6 @@ function fetchApi(type, params) {
 
 function topNews(type) {
   const params = {
-    type: type,
-    key: '30c0a90f8a2475db8d589bd30e6f02f9'
   }
   return fetchApi('', params).then(res => res.data)
 }
